@@ -12,7 +12,7 @@
     background-size: 70% 80%;
     background-position: center right;
     border: 1px solid rgba(115, 255, 1, 0.904);
-    box-shadow: 4px 4px 4px rgba(115, 255, 1, 0.904);
+    box-shadow: 5px 5px 5px rgba(115, 255, 1, 0.904);
     border-radius: 10px;
 }
 
@@ -40,7 +40,7 @@
 #sub-heading {
     display: inline;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 
