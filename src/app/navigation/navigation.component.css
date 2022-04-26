@@ -25,13 +25,13 @@
 #heading {
     display: inline;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 37px;
 }
 
 #sub-heading {
     display: inline;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 
@@ -50,7 +50,7 @@ button {
     margin-top: 20px;
     font-weight: bold;
     font-size: 15px;
-    line-height: 22px;
+    line-height: 20px;
     color: #040D21;
 }
 
