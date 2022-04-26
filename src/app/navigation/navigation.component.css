@@ -5,8 +5,8 @@
     background: url(../../assets/img/circles.svg) no-repeat;
     background-size: 70% 80%;
     background-position: center right;
-    border: 1px solid rgba(115, 255, 1, 0.904);
-    box-shadow: 4px 4px 4px rgba(115, 255, 1, 0.904);
+    border: 1px solid rgba(1, 255, 128, 0.904);
+    box-shadow: 4px 4px 4px rgba(1, 255, 158, 0.904);
     border-radius: 10px;
     font-family: 'Poppins', sans-serif;
 }
