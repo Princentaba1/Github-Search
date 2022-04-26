@@ -1,0 +1,25 @@
+p {
+    color: #6beed8;
+}
+
+ul {
+    color: #6beec7;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a {
+    color: #6beecd;
+    text-decoration: none;
+}
+
+.list {
+    padding: 20px;
+    border-bottom: 1px solid #6beec744;
+}
+
+.list:hover {
+    background-color: #6beec744;
+    transition: 800ms;
+    cursor: pointer;
+}
